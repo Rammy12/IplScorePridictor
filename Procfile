@@ -1,0 +1,1 @@
+web: gunicorn iplScore.wsgi --log-file -
